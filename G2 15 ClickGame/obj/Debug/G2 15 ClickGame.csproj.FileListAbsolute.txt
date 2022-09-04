@@ -1,0 +1,8 @@
+T:\G2 15 ClickGame\bin\Debug\G2 15 ClickGame.exe.config
+T:\G2 15 ClickGame\bin\Debug\G2 15 ClickGame.exe
+T:\G2 15 ClickGame\bin\Debug\G2 15 ClickGame.pdb
+T:\G2 15 ClickGame\obj\Debug\G2_15_ClickGame.Form1.resources
+T:\G2 15 ClickGame\obj\Debug\G2_15_ClickGame.Properties.Resources.resources
+T:\G2 15 ClickGame\obj\Debug\G2 15 ClickGame.csproj.GenerateResource.Cache
+T:\G2 15 ClickGame\obj\Debug\G2 15 ClickGame.exe
+T:\G2 15 ClickGame\obj\Debug\G2 15 ClickGame.pdb
