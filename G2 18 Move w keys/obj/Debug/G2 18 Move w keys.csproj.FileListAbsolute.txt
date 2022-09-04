@@ -1,0 +1,8 @@
+T:\G2 18 Move w keys\bin\Debug\G2 18 Move w keys.exe.config
+T:\G2 18 Move w keys\bin\Debug\G2 18 Move w keys.exe
+T:\G2 18 Move w keys\bin\Debug\G2 18 Move w keys.pdb
+T:\G2 18 Move w keys\obj\Debug\G2_18_Move_w_keys.Form1.resources
+T:\G2 18 Move w keys\obj\Debug\G2_18_Move_w_keys.Properties.Resources.resources
+T:\G2 18 Move w keys\obj\Debug\G2 18 Move w keys.csproj.GenerateResource.Cache
+T:\G2 18 Move w keys\obj\Debug\G2 18 Move w keys.exe
+T:\G2 18 Move w keys\obj\Debug\G2 18 Move w keys.pdb
