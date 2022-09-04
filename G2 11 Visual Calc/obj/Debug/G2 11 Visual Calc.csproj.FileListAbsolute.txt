@@ -1,0 +1,9 @@
+T:\G2 11 Visual Calc\bin\Debug\G2 11 Visual Calc.exe.config
+T:\G2 11 Visual Calc\bin\Debug\G2 11 Visual Calc.exe
+T:\G2 11 Visual Calc\bin\Debug\G2 11 Visual Calc.pdb
+T:\G2 11 Visual Calc\obj\Debug\G2 11 Visual Calc.csprojResolveAssemblyReference.cache
+T:\G2 11 Visual Calc\obj\Debug\G2_11_Visual_Calc.Form1.resources
+T:\G2 11 Visual Calc\obj\Debug\G2_11_Visual_Calc.Properties.Resources.resources
+T:\G2 11 Visual Calc\obj\Debug\G2 11 Visual Calc.csproj.GenerateResource.Cache
+T:\G2 11 Visual Calc\obj\Debug\G2 11 Visual Calc.exe
+T:\G2 11 Visual Calc\obj\Debug\G2 11 Visual Calc.pdb
