@@ -1,0 +1,8 @@
+T:\G2 19 More key moving\bin\Debug\G2 19 More key moving.exe.config
+T:\G2 19 More key moving\bin\Debug\G2 19 More key moving.exe
+T:\G2 19 More key moving\bin\Debug\G2 19 More key moving.pdb
+T:\G2 19 More key moving\obj\Debug\G2_19_More_key_moving.Form1.resources
+T:\G2 19 More key moving\obj\Debug\G2_19_More_key_moving.Properties.Resources.resources
+T:\G2 19 More key moving\obj\Debug\G2 19 More key moving.csproj.GenerateResource.Cache
+T:\G2 19 More key moving\obj\Debug\G2 19 More key moving.exe
+T:\G2 19 More key moving\obj\Debug\G2 19 More key moving.pdb
