@@ -1,0 +1,9 @@
+T:\G2 17 Move Shapes\bin\Debug\G2 17 Move Shapes.exe.config
+T:\G2 17 Move Shapes\bin\Debug\G2 17 Move Shapes.exe
+T:\G2 17 Move Shapes\bin\Debug\G2 17 Move Shapes.pdb
+T:\G2 17 Move Shapes\obj\Debug\G2 17 Move Shapes.csprojResolveAssemblyReference.cache
+T:\G2 17 Move Shapes\obj\Debug\G2_17_Move_Shapes.Form1.resources
+T:\G2 17 Move Shapes\obj\Debug\G2_17_Move_Shapes.Properties.Resources.resources
+T:\G2 17 Move Shapes\obj\Debug\G2 17 Move Shapes.csproj.GenerateResource.Cache
+T:\G2 17 Move Shapes\obj\Debug\G2 17 Move Shapes.exe
+T:\G2 17 Move Shapes\obj\Debug\G2 17 Move Shapes.pdb
